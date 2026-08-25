@@ -1,18 +1,18 @@
 # Student Grade Analyzer
 
-A simple Python CLI project to:
-- Add student data
-- Calculate average and grade
-- Store data in CSV file
-- View all student records
+## 📌 Project Description
+This is a simple Python project that analyzes student marks and assigns grades based on performance.
 
-## Features
-- Menu-driven system
-- Input validation
-- File handling using CSV
-- Clean modular functions
+## 🚀 Features
+- Reads student data from CSV file
+- Calculates grades
+- Outputs results
 
-## How to Run
+## 📂 Files
+- main.py → main logic
+- students.csv → input data
+- README.md → documentation
 
+## ▶️ How to Run
 ```bash
 python main.py
